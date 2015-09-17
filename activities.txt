@@ -1,0 +1,6 @@
+Swimming:Group swimming in a lake:Lake Mayfield:1:N
+Basketball:Come play basketball with us:Moda Center:2:N
+Soccer:Come play soccer outside:Providence Park:1:Y
+Baseball:Come play with your friends and family:PGE Park:3:Y
+Hiking:See the beautiful views of the Gorge:Angels Rest:2:N
+Mountain Climbing:Climb straight rock faces or indoor walls:Mystery Island:5:Y
